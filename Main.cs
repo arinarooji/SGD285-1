@@ -38,7 +38,7 @@ public class SGD285_1
 	       new UserQuote("Ryan Douglass", "If there is no struggle there is no progress. - Frederick Douglass"),
 	    new UserQuote("Baylen Smith", "Whatever happens, happens. - Spike Spiegel"),
 	       new UserQuote("Jennifer Ethridge", "I have found a desire within myself that no experience in this world can satisfy; the most probable explanation is that I was made for another world."),
-           new UserQuote("Haley Sessions", "No road is long with good company. - Turkish Proverb"),
+           new UserQuote("Haley Sessions", "No road is long with good company. - Turkish Proverb"), // I completely agree
            new UserQuote("Paola Gonzalez", "The roots of education are bitter, but the fruit is sweet. - Aristotle"),
            new UserQuote("Dylan Zuniga", "All the love as always. H - Harry Styles"),
            new UserQuote("Kendall Wix", "At the end of this day, one shall stand, one shall fall!. O - Optimus Prime"),
@@ -51,6 +51,7 @@ public class SGD285_1
            new UserQuote("Jennifer Baldwin", "I am no bird; and no net ensnares me; I am a free human being with an independent will. - Charlotte Bronte"),
            new UserQuote("Mayra Orlando", "Problems are not stop signs, they are guidelines.- Robert H. Schiuller"),
            new UserQuote("Forrest Wilkerson", "You miss 100% of the shots you never take- Wayne Gretzky"),
+           new UserQuote("Keivon Arooji", "Education is what remains after one has forgotten what one has learned in school. -Albert Einstein"),
            // add the next user here using the formula above, don't forget the comma to separate the items in the initialization list.
            // IMPORTANT: If there is a conflict, you MUST fix it, compile to make sure
            // your program compiles and runs locally, then push to the git repository on GitHub.
